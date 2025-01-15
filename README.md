@@ -17,8 +17,7 @@ Je suis **Thomas Druineau**, étudiant en 3ème année de BUT Informatique à l'
 ## 🚀 Projets Actuels
 
 ### [Lamanager](https://github.com/Druineau1/Lamanager)
-
-Un projet combinant **React** et **Laravel** pour gérer des fonctionnalités complexes. Ce projet met en pratique mes compétences en développement web full-stack et ma capacité à concevoir des applications robustes et performantes.
+Il s'agit du projet sur lequel je travaille actuellement. C'est un prévisionnel qui combine **React** et **Laravel** pour gérer des fonctionnalités complexes, afin d'assiter mon IUT dans leur organisation.
 
 ## 📂 Autres Projets Notables
 
@@ -69,5 +68,6 @@ Ces projets démontrent ma rigueur et mon engagement envers les bonnes pratiques
 
 - **Téléphone** : 06 10 57 03 02
 - **Email** : thomas.druineau@etu.unilim.fr
+- **Linkedin** : linkedin.com/in/thomas-druineau-971143334
 
 Merci de visiter mon GitHub ! N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou opportunité professionnelle.
